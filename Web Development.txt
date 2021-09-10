@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <title>
+            Insert a image :
+        </title>
+    </head>
+    <body>
+        <p> JavaScript zero to Hero  day:1   6-Sep-21</p>
+         <script>
+              
+            //var firstname="Letsupgrade";
+            //var age=2;
+            
+            //console.log('the name is ${firstname} and the age is ${age}');
+            //var  A=20;
+            //var B=30;
+            //var C=40;
+            //Operators
+
+            //Binary Operators
+
+                //Arathmatic op :
+                //+ - * / %
+                //console.log(A%B);
+                //'Assignment op :
+                // = += -= *= /= %=
+                // A+=B;
+                //A=A+B
+                //Relational Op :
+                // > >= < <= == != 
+                //Identity Op :
+                // ===  !==
+                // Logical Op :
+                // && || !
+
+                //console.log(A<B || B>C);
+
+
+            //Unary Operators
+                    // ++ --
+
+                    //var a=1;
+                    //var b=++a;
+                    
+
+                    //console.log(a,b);
+
+            //ternary operator
+            // ? :
+            
+
+            // Conditional Statements :
+            
+            //Condition - Comprasion
+
+            var A=25;
+
+             if(A>45){
+                 console.log("Hello");
+             }
+             else{
+                 console.log("BYE");
+             }
+                    
+         
+         
+         </script>
+    </body>
+</html>
